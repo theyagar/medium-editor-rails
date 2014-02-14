@@ -1,4 +1,8 @@
+
 # Medium Editor for Rails
+
+## We can use this for internal portal changes. 
+
 
 This gem integrates [Medium Editor](https://github.com/daviferreira/medium-editor) with Rails asset pipeline.
 
